@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -60,5 +56,13 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/kacperbartlomiejczak/kacperbartlomiejczak/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31tgbx6ugkmqvvlv5itq5vcvjvx4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tgbx6ugkmqvvlv5itq5vcvjvx4&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
