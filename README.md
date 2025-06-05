@@ -1,11 +1,11 @@
 
 <!-- GitHub Profile README for a React Native & SwiftUI Developer -->
 
-<h1 align="center">Hi 👋, I'm [Kacper Bartłomiejczak]</h1>
+<h1 align="center">Hi 👋, I'm Kacper Bartłomiejczak</h1>
 <h3 align="center">🚀 Mobile Developer | React Native & SwiftUI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?username=kacperbartlomiejczak&label=Profile%20views&color=0e75b6&style=flat" alt="kacperbartlomiejczak" />
 </p>
 
 ---
