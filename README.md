@@ -5,8 +5,8 @@ A second-year Computer Science student and a passionate Frontend Developer speci
 <br />
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=transparent&hide_border=true&title_color=20232a&icon_color=61DAFB&text_color=20232a" alt="Kacper's GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=transparent&hide_border=true&title_color=20232a&icon_color=61DAFB&text_color=20232a" alt="Top Languages" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kacperbartlomiejczak&show_icons=true&theme=dracula&hide_border=true" alt="Kacper's GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kacperbartlomiejczak&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="48%"/>
 </p>
 
 <br />
