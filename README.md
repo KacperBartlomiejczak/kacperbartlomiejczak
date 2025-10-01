@@ -1,49 +1,27 @@
+Hi, I'm Kacper Bartłomiejczak
 
-<!-- GitHub Profile README for a React Native & SwiftUI Developer -->
+A second-year Computer Science student and a passionate Frontend Developer specializing in building modern web applications with React.
 
-<h1 align="center">Hi 👋, I'm Kacper Bartłomiejczak</h1>
-<h3 align="center">🚀 Mobile Developer | React Native & SwiftUI Enthusiast</h3>
+<br />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kacperbartlomiejczak&label=Profile%20views&color=0e75b6&style=flat" alt="kacperbartlomiejczak" />
-</p>
+About Me
 
----
+I am a 21-year-old developer from Poland with a strong focus on frontend technologies. My journey into programming started with a fascination for creating intuitive and performant user interfaces. I am currently pursuing an engineering degree in Computer Science while actively honing my skills in web development.
 
-## 👨‍💻 About Me
+My primary goal is to write clean, scalable, and efficient code. I thrive in environments that challenge me to learn and adapt to new technologies.
 
-🎯 I’m a passionate **Mobile App Developer** with a focus on building responsive, high-performance apps using **React Native** and **SwiftUI**.  
-📱 I craft cross-platform solutions that combine sleek UI with robust architecture.  
-🌱 Currently diving deeper into **Combine**, **Redux Toolkit**, and **React Navigation 6**.  
-🛠️ I love turning complex problems into simple, beautiful, and intuitive designs.
+<br />
 
----
+Core Technologies
 
-## 🧰 Tech Stack
+Below is a summary of my primary technical skills and the tools I use for development.
 
-### 📱 Mobile Development
-<p align="left">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-</p>
+<br />
 
-### 💻 Languages & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-</p>
+Contact
 
-### 🛠 Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+You can reach me through the following channels:
 
----
+    LinkedIn: https://www.linkedin.com/in/kacper-bartlomiejczak-b12a19385
 
-
-
-
+    Email: kacperbartlomiejczak@proton.me
