@@ -5,7 +5,7 @@ I focus on building clean, fast and practical web apps that solve problems I run
 
 **Stack:** Next.js · React · TypeScript · Tailwind CSS  
 **Daily tools:** VS Code · GitHub Copilot · Gemini CLI  
-**Currently learning:** Angular
+**Currently working on:** [Hello Anime](https://github.com/KacperBartlomiejczak/Hello-Anime)
 
 **Fun facts:**
 - Coffee is basically my second bloodstream.
